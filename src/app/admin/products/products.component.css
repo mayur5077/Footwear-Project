@@ -1,0 +1,42 @@
+
+/* ----- sidebar ----- */
+
+#sidebar a{
+  margin: 50px;
+  font-size: 30px;
+}
+#sidebar .info{
+  box-shadow: 2px 2px 3px black;
+}
+#sidebar .demo{
+  font-size: 30px;
+  border: 1px solid black;
+  box-shadow: 2px 2px 3px black;
+}
+#sidebar .demo1{
+  font-size: 30px;
+  border: 1px solid black;
+  box-shadow: 2px 2px 3px black;
+}
+#sidebar .info{
+  position: sticky;
+}
+
+
+/* ----- products ----- */
+
+table{
+  text-align: center;
+
+  width: 100%;
+
+}
+.demo9{
+  box-shadow: 2px 2px 3px black;
+  border: 1px solid black;
+
+}
+h2{
+  text-shadow: 2px 2px 3px rgb(76, 73, 73);
+}
+

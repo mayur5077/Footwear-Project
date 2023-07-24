@@ -1,0 +1,40 @@
+
+/* ----- sidebar ----- */
+
+#sidebar a{
+  margin: 50px;
+  font-size: 30px;
+}
+#sidebar .info{
+  box-shadow: 2px 2px 3px black;
+}
+#sidebar .demo{
+  font-size: 30px;
+  border: 1px solid black;
+  box-shadow: 2px 2px 3px black;
+}
+#sidebar .demo1{
+  font-size: 30px;
+  border: 1px solid black;
+  box-shadow: 2px 2px 3px black;
+}
+#sidebar .info{
+  position: sticky;
+}
+
+
+
+/* ----- product ----- */
+
+form{
+  margin: 30px;
+  width: 100%;
+}
+table{
+  width: 100%;
+}
+.info{
+  box-shadow: 2px 2px 3px black;
+  border: 1px solid black;
+}
+

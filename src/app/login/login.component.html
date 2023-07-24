@@ -1,0 +1,30 @@
+
+      <form action="#" class="contact-form mx-auto" [formGroup]="formdata" (ngSubmit)="click(formdata.value)" >
+        <div class="row">
+
+          <div class="w-100 col-sm-2"></div>
+          <div class="col-sm-8 mt-5">
+            <div class="form-group">
+
+              <input type="text" id="email" name="user" class="form-control" formControlName="user"  placeholder="Username">
+            </div>
+          </div>
+          <div class="w-100 col-sm-2"></div>
+          <div class="w-100 col-sm-2"></div>
+          <div class="col-sm-8">
+            <div class="form-group">
+
+              <input type="password" id="email" name="password" class="form-control" formControlName="password"  placeholder="Password">
+            </div>
+          </div>
+          <div class="w-100 col-sm-2"></div>
+          <div class="w-100 col-sm-2"></div>
+									<div class="col-sm-8 mt-3">
+										<div class="form-group">
+											<input type="submit" value="login" class="btn btn-primary">
+										</div>
+                    <div class="w-100 col-sm-2"></div>
+
+        </div>
+        </div>
+      </form>

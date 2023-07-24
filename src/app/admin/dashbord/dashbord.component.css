@@ -1,0 +1,36 @@
+#sidebar a{
+  margin: 50px;
+  font-size: 30px;
+
+
+
+
+}
+#sidebar .info{
+  box-shadow: 2px 2px 3px black;
+}
+#sidebar .demo{
+  font-size: 30px;
+  border: 1px solid black;
+  box-shadow: 2px 2px 3px black;
+}
+#sidebar .demo1{
+  font-size: 30px;
+  border: 1px solid black;
+  box-shadow: 2px 2px 3px black;
+}
+#sidebar .info{
+  position: sticky;
+}
+#sidebar.demo2{
+
+  font-size: 30px;
+  border: 1px solid black;
+  box-shadow: 2px 2px 3px black;
+}
+
+
+
+
+
+
